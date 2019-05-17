@@ -3,6 +3,9 @@
 - vue-cli3 + element-ui + 后台Flask API接口
 - vue2 + python3
 > 这是仿照教程 [jspang](https://jspang.com/posts/2017/05/22/vuedemo.html) 写的pos系统 https://jspang.com/posts/2017/05/22/vuedemo.html
+- 虽然是仿照，但没有完全照抄，很多都是按照自己的想法写的！
+> 自己用Python Flask框架 稍微写了一下接口，
+> vue方面用了加了一些 教程中没有用到的Element-ui组建。
 
 - 效果图如下
 ![效果图](https://raw.githubusercontent.com/wgPython/pos/master/pos.png)
