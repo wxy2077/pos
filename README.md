@@ -4,6 +4,8 @@
 - vue2 + python3
 > 这是仿照教程 [jspang](https://jspang.com/posts/2017/05/22/vuedemo.html) 写的pos系统 https://jspang.com/posts/2017/05/22/vuedemo.html
 
+- 效果图如下
+![效果图](https://raw.githubusercontent.com/wgPython/pos/master/pos.png)
 ## 运行前端项目
 ```
 npm install
